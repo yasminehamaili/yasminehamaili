@@ -98,19 +98,19 @@
     <span style={{
       fontSize: 11, letterSpacing: 6, textTransform: 'uppercase',
       color: 'rgba(0,229,255,0.50)', fontWeight: 300, marginBottom: 14
-    }}>mobile · rf · ai engineer</span>
+    }}>mobile · networking · ai engineer</span>
 
     <span style={{
       fontSize: 52, fontWeight: 800, letterSpacing: -2, lineHeight: 1,
       color: '#ffffff',
       textShadow: '0 0 60px rgba(0,229,255,0.25), 0 0 120px rgba(139,92,246,0.15)'
-    }}>Yasmine</span>
+    }}>Yasmine Hamaili</span>
 
     <div style={{ display: 'flex', alignItems: 'center', marginTop: 16, gap: 6 }}>
       <span style={{
         fontSize: 15, color: 'rgba(180,190,255,0.70)', fontWeight: 400,
         letterSpacing: 0.5, fontFamily: 'monospace'
-      }}>> Android apps · RF/microwave design · AI-powered tools</span>
+      }}>> Android apps · Networking/Telecom Engineering · AI-powered tools</span>
       <span id="hcur" style={{ fontSize: 15, color: 'rgba(0,229,255,0.7)', fontFamily: 'monospace' }}>_</span>
     </div>
 
@@ -628,6 +628,6 @@
   <span style={{
     fontSize: 11, color: 'rgba(255,255,255,0.20)', letterSpacing: 3,
     fontWeight: 300, marginTop: 8, zIndex: 10
-  }}>yasmine · built with intent</span>
+  }}>built with intent</span>
 </div>
 ```
